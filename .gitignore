@@ -4,3 +4,6 @@ dark-version/
 editorial-version/
 site/
 *.backup*
+
+.taste-skill/
+.impeccable/
